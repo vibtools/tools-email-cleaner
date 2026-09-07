@@ -1,0 +1,6 @@
+{
+  "name": "Bulk Email List Cleaner & Scrubber - Free Email Verifier Online",
+  "description": "Professional bulk email list cleaner and scrubber. Remove duplicates, fix common typos, and verify email formats instantly. 100% private browser-based tool for TXT, CSV, and Excel email list hygiene by Vib Tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
